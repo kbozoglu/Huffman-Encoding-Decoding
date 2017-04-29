@@ -1,0 +1,2 @@
+# Huffman-Encoding-Decoding
+This project is the final assignment of Data Structures and Algorithm course in UCSC. I implemented Huffman coding/decoding algorithm by constructing a Huffman Tree from a stream of characters. 
